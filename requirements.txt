@@ -1,0 +1,9 @@
+langchain-google-genai
+streamlit
+langchain-community
+langchain-chroma
+langchain
+langchain-core
+protobuf==3.20.*
+pysqlite3-binary
+jq
